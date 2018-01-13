@@ -1,4 +1,4 @@
-﻿# midterm 1 coding practice
+# midterm 1 coding practice
 
 ## if-else and switch-case
 
